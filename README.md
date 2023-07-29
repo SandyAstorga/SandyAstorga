@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/e8/dc/94/e8dc942cc88ff4561e3020c15052a3da.gif" align="center" height="90" width="490" />
-</div> 
+<img src="https://i.pinimg.com/564x/74/79/90/7479904990a132fd0e09eee46d7389ce.jpg" align="center" height="90" width="550" />
+</div>  
 
 
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
@@ -10,7 +10,7 @@
 
 <br/>  
 
-## My Skill Set  
+## Tecnologias  
 <table><tr><td valign="top" width="33%">
 
 
@@ -54,12 +54,12 @@
 <br/>  
 
 
-## Connect with me  
+## Contactame  
 <div align="center">
 <a href="https://github.com/SandyAstorga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandraastorga13" target="_blank">
+<a href="https://linkedin.com/in/sandraastorga13" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -68,13 +68,13 @@
 <br/>  
 
 
-## Github Stats  
+## Estadisticas Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Inspirational music for web development
+## Música inspiradora para el desarrollo web
   
 <br/>  
 
