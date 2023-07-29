@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://i.pinimg.com/564x/74/79/90/7479904990a132fd0e09eee46d7389ce.jpg" align="center" height="120" width="900" />
+<img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" align="center" height="120" width="900" />
 </div>  
 
 
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
   
 
-#### <div align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
+#### <div align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. 
+Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
 
 <br/>  
 
