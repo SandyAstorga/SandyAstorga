@@ -8,15 +8,7 @@
 
 #### <div align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
 
-### My Proyects  
-### <div align="center">Proyecto Individual - BonAppetit
-
-La aplicación es un completo repositorio de recetas culinarias con una experiencia visual e interactiva. Los usuarios pueden explorar diversas recetas con detalles de preparación, tipo de dieta y puntos de salud.
-La interfaz intuitiva permite ordenar y filtrar las recetas según
-preferencias y necesidades dietéticas. Los usuarios también pueden agregar y eliminar sus propias recetas, fomentando una comunidad colaborativa de amantes de la cocina.</div>  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
