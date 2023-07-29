@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandra Astorga</h1>
-<h3 align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas.</h3>
+<h1 align="center">Hola 👋, Soy Sandra Astorga</h1>
+<h3 align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas.  
+Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
