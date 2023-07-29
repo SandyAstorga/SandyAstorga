@@ -2,19 +2,18 @@
 <img src="https://i.pinimg.com/originals/ee/de/f4/eedef47b05fed666b570b3f147c83c2d.jpg" align="center" height="70" width="70" />
 </div> 
 
-### <div align="center">Hi 😁, Soy Sandra Astorga!
-Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.
-Mi enfoque es siempre buscar nuevas formas de aprender y mejorar, ya sea mediante cursos o trabajando en proyectos colaborativos. Creo firmemente en la importancia de mantenerme actualizada con las últimas tendencias y tecnologías para ofrecer soluciones eficientes y de vanguardia.
-</div> 
 
-### My Projects  
-#### **Proyecto Individual - BonAppetit
+### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
+  
+
+#### <div align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
+
+### My Proyects  
+### <div align="center">Proyecto Individual - BonAppetit
 
 La aplicación es un completo repositorio de recetas culinarias con una experiencia visual e interactiva. Los usuarios pueden explorar diversas recetas con detalles de preparación, tipo de dieta y puntos de salud.
 La interfaz intuitiva permite ordenar y filtrar las recetas según
-preferencias y necesidades dietéticas. Los usuarios también pueden agregar y eliminar sus propias recetas, fomentando una comunidad colaborativa de amantes de la cocina.
-**  
-  
+preferencias y necesidades dietéticas. Los usuarios también pueden agregar y eliminar sus propias recetas, fomentando una comunidad colaborativa de amantes de la cocina.</div>  
 
 <br/>  
 
