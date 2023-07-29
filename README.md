@@ -3,11 +3,10 @@
 </div>  
   
 
-### <div align="center">Hola 😁, Soy Sandra Astorga!
-Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
-  
-
-
+### <div align="center">Hi 😁, Soy Sandra Astorga!
+Desarrolladora Web Full Stack apasionada por crear aplicaciones web que impacten positivamente en la vida de las personas. Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.
+Mi enfoque es siempre buscar nuevas formas de aprender y mejorar, ya sea mediante cursos o trabajando en proyectos colaborativos. Creo firmemente en la importancia de mantenerme actualizada con las últimas tendencias y tecnologías para ofrecer soluciones eficientes y de vanguardia.
+</div> 
 
 ### My Projects  
 #### **Proyecto Individual - BonAppetit
