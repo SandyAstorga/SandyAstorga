@@ -85,9 +85,8 @@ preferencias y necesidades dietéticas. Los usuarios también pueden agregar y e
 <br/>  
 
 
-## Recent Blog Posts  
+## Inspirational music for web development
   
-
 <br/>  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qqio80fcb3imwwdmxdejd25px&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)  
