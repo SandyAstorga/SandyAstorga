@@ -6,7 +6,7 @@
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
   
 
-#### <div align="center">Desarrolladora Web Full Stack apasionada por crear aplicaciones web innovadoras que impulsen la excelencia y mejoren la experiencia digital.</div>
+#### <div align="center">Soy una Desarrolladora Web Full Stack apasionada por crear aplicaciones web innovadoras. Mi enfoque como FrontEnd es perfeccionar mis habilidades para ofrecer soluciones eficientes y vanguardistas.</div>
 #### <div align="center">Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
 
 <br/>  
