@@ -6,8 +6,8 @@
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
   
 
-#### <div align="center">Soy una Desarrolladora Web Full Stack apasionada por crear aplicaciones web innovadoras. Mi enfoque como FrontEnd es perfeccionar mis habilidades para ofrecer soluciones eficientes y vanguardistas.</div>
-#### <div align="center">Desde que descubrí mi interés por la tecnología y el desarrollo web, me he comprometido a aprender continuamente y perfeccionar mis habilidades para crear proyectos innovadores y desafiantes.</div>  
+#### <div align="center">Soy Desarrolladora Web Full Stack con educación profesional en Ingeniería en Sistemas Computacionales, lo que me ha permitido comprender la relevancia de las tecnologías en el mundo actual.</div>
+#### <div align="center">Mi enfoque principal se centra en el Front-end, donde he concentrado mis esfuerzos enproyectos recientes. Poseo habilidades en el manejo de React, Redux, Javascript entre otras. Además, cuento con un nivel de Inglés A2 (Elemental).</div>  
 
 <br/>  
 
