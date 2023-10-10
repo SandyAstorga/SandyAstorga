@@ -7,7 +7,7 @@
   
 
 #### <div align="center">Soy Desarrolladora Web Full Stack con educación profesional en Ingeniería en Sistemas Computacionales, lo que me ha permitido comprender la relevancia de las tecnologías en el mundo actual.</div>
-#### <div align="center">Mi enfoque principal se centra en el Front-end, donde he concentrado mis esfuerzos enproyectos recientes. Poseo habilidades en el manejo de React, Redux, Javascript entre otras. Además, cuento con un nivel de Inglés A2 (Elemental).</div>  
+#### <div align="center">Mi enfoque principal se centra en el Front-end, donde he concentrado mis esfuerzos enproyectos recientes. Poseo habilidades en el manejo de React, Redux, Javascript entre otras.</div>  
 
 <br/>  
 
