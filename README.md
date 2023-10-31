@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" align="center" height="200" width="500" />
-  ![1500x500](https://github.com/SandyAstorga/SandyAstorga/assets/99463040/9f55b4c4-993f-45de-a894-25a77eaa4587)
-
+<img src="https://github.com/SandyAstorga/SandyAstorga/assets/99463040/9f55b4c4-993f-45de-a894-25a77eaa4587.jpg" align="center" height="200" width="500" />
 </div>  
 
 
