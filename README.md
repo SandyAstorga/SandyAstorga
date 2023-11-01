@@ -66,7 +66,6 @@
 <a href="mailto:sandyastorga13@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"  style="margin-bottom: 5px;" />
 </a>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D6QNWF3)
 </div>
 
 ###
