@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://github.com/SandyAstorga/SandyAstorga/assets/99463040/9f55b4c4-993f-45de-a894-25a77eaa4587.jpg" align="center" height="200" width="500" /> -->
-<img src="![1698875668062](https://github.com/SandyAstorga/SandyAstorga/assets/99463040/5f893086-4f3f-4d08-a9cb-758dcd531e0b)" align="center" height="200" width="500" />
+<img src="https://github.com/SandyAstorga/SandyAstorga/assets/99463040/5f893086-4f3f-4d08-a9cb-758dcd531e0b" align="center" height="200" width="500" />
 </div>  
 
 
