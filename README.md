@@ -100,10 +100,6 @@
 <br/>  
 
 
-## Música inspiradora para el desarrollo web
-  
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandyAstorga&&style=flat-square" align="center" />
 </div>  
