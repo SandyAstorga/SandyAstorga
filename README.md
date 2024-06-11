@@ -104,10 +104,6 @@
   
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qqio80fcb3imwwdmxdejd25px&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandyAstorga&&style=flat-square" align="center" />
 </div>  
