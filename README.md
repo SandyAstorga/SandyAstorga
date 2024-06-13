@@ -106,7 +106,12 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandyAstorga&&style=flat-square" align="center" />
-</div>  
+</div> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SandyAstorga/count.svg?"  />
+</div>
+
+###
 
 <br/>  
 
