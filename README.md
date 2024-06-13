@@ -83,14 +83,15 @@
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
   -->
   <picture>
-  <source
+<!--   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true" />
 </picture>
   <br>
