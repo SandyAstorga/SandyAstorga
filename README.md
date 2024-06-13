@@ -114,9 +114,5 @@
 <div align="center"></div>
 <br />
 
-<img src="https://raw.githubusercontent.com/SandyAstorga/SandyAstorga/output/snake.svg" alt="Snake animation" />
-
-###
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
