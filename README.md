@@ -107,9 +107,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandyAstorga&&style=flat-square" align="center" />
 </div> 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SandyAstorga/count.svg?"  />
-</div>
 
 ###
 
@@ -122,6 +119,8 @@
 </div>
 <br />
 
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
