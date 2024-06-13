@@ -120,7 +120,7 @@
 <br />
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&theme=default&title_color=violet&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
