@@ -83,13 +83,13 @@
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
   -->
   <picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true" />
 </picture>
@@ -97,12 +97,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandyAstorga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
 ###
 
 <br/>  
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SandyAstorga&&style=flat-square" align="center" />
@@ -110,17 +107,15 @@
 
 ###
 
-<br/>  
+<br/> 
 
 <div align="center">
     <a href="https://ko-fi.com/sandyaweb" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
     </a>
 </div>
-<br />
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandyAstorga&show_icons=true&theme=default&title_color=violet&text_color=000000&bg_color=0d1117&hide_border=true" alt="Sandy stats card" /></p>
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
