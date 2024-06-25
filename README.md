@@ -10,7 +10,7 @@
 #### <div align="center">Desarrolladora Web Full Stack con formación en Ingeniería en Sistemas Computacionales. </div>
 #### <div align="center">Con experiencia en Front-end, con HTML, CSS, React, JavaScript y Redux creando interfaces de usuario atractivas y funcionales.
 En el Back-end manejo de Node, Express y PostgreSQL, consumiendo APIs y gestionando bases de datos.</div>
-#### <div aling-"center">He trabajado en proyectos reales, aplicando habilidades en entornos laborales, colaborando con equipos multidisciplinarios y adaptándome a nuevas tecnologías y metodologías.</div>
+#### <div align-"center">He trabajado en proyectos reales, aplicando habilidades en entornos laborales, colaborando con equipos multidisciplinarios y adaptándome a nuevas tecnologías y metodologías.</div>
 #### <div align="center">Estoy comprometida con el aprendizaje continuo y apasionada por aplicar y expandir mis habilidades en proyectos tecnológicos innovadores.</div>
 
 <br/>  
