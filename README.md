@@ -110,13 +110,14 @@
 
 <br/> 
 
+<!-- 
 <div align="center">
     <a href="https://ko-fi.com/sandyaweb" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
     </a>
 </div>
+-->
 
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
