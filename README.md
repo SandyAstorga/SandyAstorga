@@ -28,7 +28,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>   -->
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <!-- <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   -->
-  <a href="https://https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://vetores.org/wp-content/uploads/bootstrap.png" alt="Boootstrap" height="50" /></a>  
+  <a href="https://https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://39ntbr6g.media.zestyio.com/logo-bootstrap5.png" alt="Boootstrap" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
