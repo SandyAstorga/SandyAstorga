@@ -12,14 +12,15 @@
 
 <br/>  
 
-## Tecnologias  
-<table><tr><td valign="top" width="33%">
+## Tecnologias
 
 ### ServiceNow  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
+
+<table><tr><td valign="top" width="33%">
 
 <!--table><tr><td valign="top" width="33%"-->
 
