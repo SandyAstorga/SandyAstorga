@@ -7,17 +7,15 @@
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
   
 
-#### <div align="center">Desarrolladora Web Full Stack con formación en Ingeniería en Sistemas Computacionales. </div>
-#### <div align="center">Con experiencia en Front-end, con HTML, CSS, React, JavaScript y Redux creando interfaces de usuario atractivas y funcionales. En el Back-end manejo de Node, Express y PostgreSQL, consumiendo APIs y gestionando bases de datos.</div>
-#### <div align="center">He trabajado en proyectos reales, aplicando habilidades en entornos laborales, colaborando con equipos multidisciplinarios y adaptándome a nuevas tecnologías y metodologías.</div>
-#### <div align="center">Me encuentro en aprendizaje continuo para expandir mis habilidades en proyectos tecnológicos.</div>
+#### <div align="center">ServiceNow Technical Consultant con formación en Ingeniería en Sistemas Computacionales y experiencia previa como Full Stack Developer. </div>
+#### <div align="center">Experiencia en la implementación de soluciones en ServiceNow, orientadas a satisfacer los requerimientos técnicos y las necesidades del negocio.</div>
+#### <div align="center">Cuento con habilidades para el análisis de requerimientos, la resolución de problemas técnicos y la colaboración con equipos multidisciplinarios.</div>
+#### <div align="center">Me caracterizo por mi capacidad de adaptación, aprendizaje continuo y enfoque en el desarrollo de soluciones eficientes, mientras continúo fortaleciendo mis conocimientos técnicos y de consultoría dentro del ecosistema ServiceNow.</div>
 
 <br/>  
 
 ## Tecnologias  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
