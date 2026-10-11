@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://github.com/SandyAstorga/SandyAstorga/assets/99463040/9f55b4c4-993f-45de-a894-25a77eaa4587.jpg" align="center" height="200" width="500" /> -->
-<img src="https://github.com/SandyAstorga/SandyAstorga/assets/99463040/9f55b4c4-993f-45de-a894-25a77eaa4587" align="center" height="200" width="500" />
+<img src="https://github.com/SandyAstorga/SandyAstorga/blob/main/servicenow" align="center" height="200" width="500" />
 </div>  
 
 
