@@ -7,10 +7,8 @@
 ### <div align="center">Hola 😁, Soy Sandra Astorga!</div>  
   
 
-#### <div align="center">ServiceNow Technical Consultant con formación en Ingeniería en Sistemas Computacionales y experiencia previa como Full Stack Developer. </div>
-#### <div align="center">Experiencia en la implementación de soluciones en ServiceNow, orientadas a satisfacer los requerimientos técnicos y las necesidades del negocio.</div>
-#### <div align="center">Cuento con habilidades para el análisis de requerimientos, la resolución de problemas técnicos y la colaboración con equipos multidisciplinarios.</div>
-#### <div align="center">Me caracterizo por mi capacidad de adaptación, aprendizaje continuo y enfoque en el desarrollo de soluciones eficientes, mientras continúo fortaleciendo mis conocimientos técnicos y de consultoría dentro del ecosistema ServiceNow.</div>
+#### <div align="center">ServiceNow Technical Consultant con formación en Ingeniería en Sistemas Computacionales y experiencia previa como Full Stack Developer. Experiencia en la implementación de soluciones en ServiceNow, orientadas a satisfacer los requerimientos técnicos y las necesidades del negocio.</div>
+#### <div align="center">Cuento con habilidades para el análisis de requerimientos, la resolución de problemas técnicos y la colaboración con equipos multidisciplinarios. Me caracterizo por mi capacidad de adaptación, aprendizaje continuo y enfoque en el desarrollo de soluciones eficientes, mientras continúo fortaleciendo mis conocimientos técnicos y de consultoría dentro del ecosistema ServiceNow.</div>>
 
 <br/>  
 
