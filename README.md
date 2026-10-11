@@ -15,7 +15,7 @@
 
 ### ServiceNow  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Servicenow" height="50" /></a>  
+<a href="https://www.servicenow.com/" target="_blank"><img style="margin: 10px" src="https://github.com/SandyAstorga/SandyAstorga/blob/main/snlogo.jpeg" alt="Servicenow" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
